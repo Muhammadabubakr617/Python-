@@ -1,4 +1,4 @@
-Error: EBUSY: resource busy or locked, open 'c:\Users\Hp\Desktop\Machine learning\python practice\15 loops\mso7F52.tmp'
+Error: EBUSY: resource busy or locked, open 'c:\Users\Hp\Desktop\Machine learning\python practice\25 Generator\mso4C02.tmp'
     at Object.openSync (node:fs:576:18)
     at Object.func [as openSync] (node:electron/js2c/node_init:2:2559)
     at Object.readFileSync (node:fs:455:35)
